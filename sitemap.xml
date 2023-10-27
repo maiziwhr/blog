@@ -2,31 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://www.whhcrj.cn/</loc>
     <lastmod>2023-10-19T11:23:46+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/p/first/</loc>
+    <loc>https://www.whhcrj.cn/p/first/</loc>
     <lastmod>2023-10-19T11:23:46+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://www.whhcrj.cn/post/</loc>
     <lastmod>2023-10-19T11:23:46+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/archives/</loc>
+    <loc>https://www.whhcrj.cn/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/page/</loc>
+    <loc>https://www.whhcrj.cn/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://www.whhcrj.cn/about/</loc>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://www.whhcrj.cn/categories/</loc>
   </url><url>
-    <loc>https://example.com/links/</loc>
+    <loc>https://www.whhcrj.cn/links/</loc>
   </url><url>
-    <loc>https://example.com/search/</loc>
+    <loc>https://www.whhcrj.cn/search/</loc>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://www.whhcrj.cn/tags/</loc>
   </url><url>
-    <loc>https://example.com/categories/test/</loc>
+    <loc>https://www.whhcrj.cn/categories/test/</loc>
   </url>
 </urlset>
